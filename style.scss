@@ -1,0 +1,16 @@
+.scrollbar {
+	position: relative;
+	width: 232px;
+	height: 16px;
+	background: grey;
+	margin: auto;
+	margin-top: 35px;
+
+	.draggable {
+		position: absolute;
+		left: 108px;
+		width: 16px;
+		height: 100%;
+		background: red;
+	}
+}

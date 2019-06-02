@@ -1,0 +1,19 @@
+{
+	"name": "panner.js",
+	"version": "0.0.0",
+	"dependencies": {},
+	"browserslist": [
+		"last 1 chrome version",
+		"last 1 firefox version"
+	],
+	"engines": {
+		"node": ">=10"
+	},
+	"scripts": {
+		"dev": "parcel serve index.html"
+	},
+	"devDependencies": {
+		"parcel": "^1.12.3",
+		"sass": "^1.20.3"
+	}
+}
